@@ -27,4 +27,4 @@
 ✔️ Move in **two directions only** (left & down) to maintain order.  
 ✔️ **Think ahead** before merging to prevent the board from filling up too quickly.  
 
-🚀 Start playing now and enjoy the sweetest puzzle challenge ever 🍩🎮✨
+🚀 Start playing now [2048 Cupcakes](https://2048cupcakesfun.com/)  and enjoy the sweetest puzzle challenge ever 🍩🎮✨
