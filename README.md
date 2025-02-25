@@ -1,4 +1,4 @@
-# 🍰 2048 Cupcakes – The Ultimate Puzzle Game 🎮  
+# 🍰 2048 Cupcakes – The Ultimate Puzzle Game [2025 Updated]🎮  
 
 **2048 Cupcakes** is a fun and addictive puzzle game where you merge delicious cupcakes to reach the highest level. Inspired by the classic **2048 game**, this version replaces numbers with beautifully designed cupcakes, making it visually appealing and engaging for players of all ages.
 
